@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">I am Poor</string>
+    <string name="i_am_poor">I am Poor</string>
+    <string name="coal">coal</string>
+    <string name="TextView2">I  am Poor</string>
+    <string name="I_am_poor">I am Poor</string>
+    <string name="i_string_i_am_poor">I @string/i_am_poor</string>
 </resources>
